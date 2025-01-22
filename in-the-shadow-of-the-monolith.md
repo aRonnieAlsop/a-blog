@@ -6,7 +6,6 @@
 
 <div style="border-bottom: 1px solid black; margin-top: 0; padding-bottom: 10px;"></div>
 
-
 With TikTok's fate in the hands of politicians, many U.S. users find themselves in shambles. For some, it feels like losing a drug—an instant hit of dopamine. For others, it’s the loss of a connection to an audience they were seemingly born to entertain. Yet, despite this perceived dependency on the app, there hasn’t been a significant collective fight from American users to keep TikTok. 
 
 While politicians debate the potential security risks—focusing not on the secret agent already invited into their bed or the hacker phishing with automated messages—but on the data shared by devices on the same bandwidth, the public’s distrust of TikTok seems rooted in something far more visceral: an unnervingly accurate algorithm. It’s an algorithm so precise that it has made users feel, at least once, as though they were being spied on—devices aside, lives exposed.
@@ -61,3 +60,6 @@ Monolith integrates with tools like:
     
 
 At its core, **Monolith powers TikTok’s recommendations** by converting complex user data into a language the AI models can understand. TikTok’s web and mobile apps (built using **React Native** for cross-platform compatibility) rely on API calls to Monolith-powered backend services to deliver the hyper-personalized For You Page experience.
+
+
+by Arron Alsop
