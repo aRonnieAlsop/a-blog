@@ -1,0 +1,18 @@
+.blog-container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 900px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.h1 {
+    font-size: 2rem;
+    font-family: Roboto;
+    border-bottom: 1px solid black;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
