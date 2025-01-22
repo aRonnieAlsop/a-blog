@@ -1,7 +1,3 @@
-
-
-
-
 <h1>In the Shadow of the Monolith</h1>
 
 <div style="border-bottom: 1px solid black; margin-top: 0; padding-bottom: 10px;"></div>
@@ -32,7 +28,7 @@ For more details about Monolith, you can read from the engineers behind it here:
 
 ### **TikTok’s Tech Stack**
 
-Before Monolith, before TikTok, there was **Musical.ly**. It was more reliant on **human intelligence**—the kind of human curation we assume is watching over our shoulder—than the eerie precision of today’s algorithms. Musical.ly worked off basic social media principles like **hashtags, challenges, and manual curation** for content discovery. Its tech stack was simple, built on **basic client-server architecture** to handle user uploads and interactions.
+Before Monolith, before TikTok, there was **Musical.ly**. It was more reliant on **human intelligence**—the kind of human surveillance we assume is watching over our shoulder—than the eerie precision of today’s algorithms. Musical.ly worked off basic social media principles like **hashtags, challenges, and manual curation** for content discovery. Its tech stack was simple, built on **basic client-server architecture** to handle user uploads and interactions.
 
 It was **pre-machine learning**, and recommendations were far from personal. Users saw what was globally popular or tagged with trending hashtags. The app relied on native development frameworks like **Objective-C/Swift** for iOS and **Java** for Android. The magic was in the lip-syncing and editing tools, not the algorithm.
 
