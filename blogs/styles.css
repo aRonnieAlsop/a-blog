@@ -14,7 +14,7 @@ body {
 
 h1 {
     font-size: 2em;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     border-bottom: 2px solid black;  
     padding-bottom: 10px;            
     text-align: center;  
@@ -26,4 +26,46 @@ h1 {
 p {
     line-height: 1.6;
     margin-bottom: 15px;
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+
+.indent {
+    text-indent: 30px;
+}
+
+.inBlogTitle {
+    font-size: 2em;
+    margin-bottom: 20px;  
+    padding-bottom: 10px;            
+    text-align: center;  
+    font-style: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-bottom: .05px solid grey;
+}
+
+.inBlogTitle2 {
+    font-size: 2em;
+    margin-bottom: 20px;  
+    padding-bottom: 10px; 
+    padding-top: 10px;           
+    text-align: center;  
+    font-style: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-top: .05px solid grey;
+}
+
+ul {
+    padding-left: 8rem;
+    list-style-type: square;
+}
+
+@media (min-width: 1024px) {
+    p {
+        padding-left: 17rem;
+        padding-right: 17rem;
+    }
+    ul {
+        padding-left: 20rem;
+    }
 }
