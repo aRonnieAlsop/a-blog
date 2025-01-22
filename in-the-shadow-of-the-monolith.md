@@ -2,7 +2,7 @@
 
 
 
-<h1 style="font-family: 'Roboto', sans-serif; font-size: 48px; text-align: center; font-weight: 700;">In the Shadow of the Monolith</h1>
+<h1>In the Shadow of the Monolith</h1>
 
 <div style="border-bottom: 1px solid black; margin-top: 0; padding-bottom: 10px;"></div>
 
