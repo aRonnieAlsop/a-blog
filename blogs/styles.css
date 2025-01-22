@@ -67,6 +67,11 @@ ul {
     list-style-type: square;
 }
 
+.lastThought {
+    border-top: .5px solid grey;
+    padding-top: 1rem;
+}
+
 @media (min-width: 1024px) {
     p {
         padding-left: 17rem;
