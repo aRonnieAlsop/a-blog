@@ -2,6 +2,9 @@
 
 
 
+<h1 style="font-family: 'Roboto', sans-serif; font-size: 48px; text-align: center; font-weight: 700;">In the Shadow of the Monolith</h1>
+
+<div style="border-bottom: 1px solid black; margin-top: 0; padding-bottom: 10px;"></div>
 
 
 With TikTok's fate in the hands of politicians, many U.S. users find themselves in shambles. For some, it feels like losing a drug—an instant hit of dopamine. For others, it’s the loss of a connection to an audience they were seemingly born to entertain. Yet, despite this perceived dependency on the app, there hasn’t been a significant collective fight from American users to keep TikTok. 
