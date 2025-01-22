@@ -65,6 +65,7 @@ p {
 ul {
     padding-left: 8rem;
     list-style-type: square;
+    padding-right: 10rem;
 }
 
 .lastThought {
