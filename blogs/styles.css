@@ -73,6 +73,13 @@ ul {
     padding-top: 1rem;
 }
 
+footer p {
+    font-size: 0.9rem;
+    color: #777; /* Soft gray for subtle text */
+    text-align: center;
+    margin-top: 20px;
+}
+
 @media (min-width: 1024px) {
     p {
         padding-left: 17rem;
